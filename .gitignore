@@ -1,0 +1,4 @@
+.venv/
+*.zpl
+*-preview.png
+__pycache__/
